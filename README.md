@@ -1,2 +1,2 @@
 # exoticone
-https://praveenram12345.github.io/exoticone/
+(https://praveenram12345.github.io/Awesome/)
